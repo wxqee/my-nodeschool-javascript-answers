@@ -1,14 +1,5 @@
-my-stream-adventure-answers
-===========================
+Learn javascript with lessons in [nodeschool.io](http://nodeschool.io).
 
-My answers to nodeschool stream-adventure
-
-Learn to compose streaming interfaces with .pipe().
-```bash
-npm install -g stream-adventure
-```
-
-See more in [nodeschool.org](http://nodeschool.io/#workshoppers).
-
+now: `$ npm install -g functional-javascript-workshop` 
 
 
