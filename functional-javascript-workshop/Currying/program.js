@@ -1,5 +1,5 @@
 function curryN(fn, n) {
-  if (typeof n != 'number') {
+  if (typeof n !== 'number') {
     n = fn.length;
   }
 
